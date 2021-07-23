@@ -1,5 +1,7 @@
 # play_autodo
 
+Simple script designed to improve to have a better and more comfortable role.
+
 <h2>Download & Installation</h2>
 
 Using <b>Git</b><br>
