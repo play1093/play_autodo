@@ -7,7 +7,7 @@ author 'play1093#8607'
 description 'take a better rp'
 
 client_scripts {
-    'client.lua',
+    'Client.lua',
     'config.lua'
 }
 
