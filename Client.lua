@@ -8,8 +8,6 @@ Citizen.CreateThread(function ()
         TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
         Citizen.Wait(0)
     end
-
-    Citizen.Wait(10000)
 end)
 
 Citizen.CreateThread(function()
